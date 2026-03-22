@@ -52,15 +52,15 @@ python3 SysViewMac.py
 
 ## Files
 
-	•	SysViewMac.py — current macOS implementation
-	•	requirements.txt — Python dependencies
-	•	LICENSE — MIT license
+	• SysViewMac.py — current macOS implementation
+	• requirements.txt — Python dependencies
+	• LICENSE — MIT license
 
 ## Roadmap
 
 The repository is named SysView because the long-term direction is broader than macOS.
-Future variants may include:
-	•	Linux version
-	•	Windows version
-	•	shared cross-platform core
-	•	optional richer visualizations
+Future variants may include
+	* Linux version
+	* Windows version
+	* shared cross-platform core
+	* optional richer visualizations
