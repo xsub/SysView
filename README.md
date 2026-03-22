@@ -59,8 +59,8 @@ python3 SysViewMac.py
 ## Roadmap
 
 The repository is named SysView because the long-term direction is broader than macOS.
-Future variants may include
-	* Linux version
-	* Windows version
-	* shared cross-platform core
-	* optional richer visualizations
+Future variants may include:
+* Linux version
+* Windows version
+* shared cross-platform core
+* optional richer visualizations
